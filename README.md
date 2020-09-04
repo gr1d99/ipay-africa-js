@@ -17,8 +17,9 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 1. Clone project
 2. Run `yarn install`
-3. Build `yarn build`
-3. Start server `yarn run serve`
+3. Open one tab and run `yarn compile-dev`
+4. Open onother tab and run `yarn build-dev`
+5. Start server on another tab `yarn serve-dev`
 ```
 
 ## Built With

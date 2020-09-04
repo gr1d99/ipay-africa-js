@@ -5,8 +5,9 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "lite-server",
-    "build": "webpack --watch"
+    "serve-dev": "lite-server",
+    "build-dev": "webpack --watch",
+    "compile-dev": "tsc --watch"
   },
   "author": "",
   "license": "ISC",
