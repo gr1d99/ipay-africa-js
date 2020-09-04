@@ -1,0 +1,21 @@
+{
+  "name": "ipay-africa",
+  "version": "1.0.0",
+  "description": "An example of how you can integrate ipay africa payment to your e-commerce application",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "crypto-js": "^4.0.0",
+    "file-loader": "^6.1.0",
+    "lite-server": "^2.5.4",
+    "prettier": "^2.1.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
