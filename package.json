@@ -17,6 +17,7 @@
     "file-loader": "^6.1.0",
     "lite-server": "^2.5.4",
     "prettier": "^2.1.1",
+    "typescript": "^4.0.2",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }
